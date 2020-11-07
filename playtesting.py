@@ -1,8 +1,6 @@
 import pygame
 import random
 import time
-import tcod
-import numpy as np
 from pathfinding import *
 
 RESOLUTION = (640,480)
